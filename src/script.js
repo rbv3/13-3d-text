@@ -32,7 +32,7 @@ fontLoader.load(
     '/fonts/helvetiker_regular.typeface.json',
     (font) => {
         const textGeometry = new TextGeometry(
-            'Unlimited Donuts!!!! (1000 to be more precise)',
+            'Unlimited Donuts!!! (1000 to be more precise)',
             {
                 font,
                 size: 0.5,
