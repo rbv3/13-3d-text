@@ -32,7 +32,7 @@ fontLoader.load(
     '/fonts/helvetiker_regular.typeface.json',
     (font) => {
         const textGeometry = new TextGeometry(
-            'Eae, Ladd! Teu cpp faz isso e da pra abrir ate no teu celular?',
+            'Unlimited Donuts!!!! (1000 to be more precise)',
             {
                 font,
                 size: 0.5,
